@@ -12,3 +12,6 @@ and copy/paste them.
 2. rsync_file - if you're like me and have given up Emacs for TextMate,
    and some of your web site development requires Linux, use this to
    edit files locally on the Mac have has ⌘-S (Save) sync them to Linux.
+
+3. rsync-project - similar to rsync_file, but syncs the entire project.
+   Uses the same RSYNC_LOCAL / RSYNC_REMOTE project variables.
