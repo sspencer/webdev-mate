@@ -1,6 +1,10 @@
 For web developers using TextMate, webdev-mate contains scripts that make
 it easier to develop multiple sites on multiple machines.
 
+Note, these scripts are save in this repository as ruby files.  To add
+them to your TextMate Bundle, create a new bundle in the Bundle Editor
+and copy/paste them.
+
 1. open_in_browser - for local development with multiple different
    virtual hosts, pressing ⌘-U opens the current file in the correct
    virtual domain.
