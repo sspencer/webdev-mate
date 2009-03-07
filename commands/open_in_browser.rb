@@ -15,6 +15,8 @@
 #     Activation: (Key Equivalent) ⌘U
 #     Scope Selector: text.html, source.css, source.php, source.js
 #
+# Usage: after mapping your web files, press ⌘U to open the current
+#     file in the default web browser.
 
 # Map a file directly to a URL, or map directories to web servers.
 map = {
