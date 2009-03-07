@@ -13,5 +13,8 @@ and copy/paste them.
    and some of your web site development requires Linux, use this to
    edit files locally on the Mac have has ⌘-S (Save) sync them to Linux.
 
-3. rsync-project - similar to rsync_file, but syncs the entire project.
+3. rsync_project - similar to rsync_file, but syncs the entire project.
    Uses the same RSYNC_LOCAL / RSYNC_REMOTE project variables.
+
+4. open_dir_in_dir - simple 1 line script that opens current directory
+   in finder.  Useful when you need to copy an image into a project.
